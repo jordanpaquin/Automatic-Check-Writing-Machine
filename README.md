@@ -13,4 +13,4 @@ Python 3.0 and above
 To Execute Program
 Run on Command Line: python3 automatic_check_writing_machine.py "Dollar Amount"
 
-Enter a dollar amount in the format '$1,234.56'
+ - With the Dollar Amount in the format: '$1,234.56'
