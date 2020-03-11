@@ -7,10 +7,11 @@ Example Test Cases:
   thousand five hundred ninety-three and 12/100 dollars.
 
 ### Prerequisites
-Python 3.0 and above
+Python 3.6 and above
+inflect 4.1.0
+  - install with: pip install inflect
 
 ### How to Run
 To Execute Program
-Run on Command Line: python3 automatic_check_writing_machine.py "Dollar Amount"
-
+Run on Command Line: python3 automatic_check_writing_machine.py "Dollar Amount" 
  - With the Dollar Amount in the format: '$1,234.56'
