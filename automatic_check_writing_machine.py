@@ -1,7 +1,6 @@
 import argparse
 import inflect
 
-
 # Initialize Argument Parser
 parser = argparse.ArgumentParser(description='Take in a dollar amount and convert it into a phonetic representation..')
 parser.add_argument('dollarAmount', help='enter a dollar amount in format $1,234.56')
