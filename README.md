@@ -9,7 +9,7 @@ Example Test Cases:
 ### Prerequisites
 Python 3.6 and above
 inflect 4.1.0
-  - install with: 
+- install with: 
 
 ### Installing and Running
 
