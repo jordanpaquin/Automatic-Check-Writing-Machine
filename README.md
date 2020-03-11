@@ -9,9 +9,13 @@ Example Test Cases:
 ### Prerequisites
 Python 3.6 and above
 inflect 4.1.0
-  - install with: pip install inflect
+  - install with: 
 
-### How to Run
-To Execute Program
-Run on Command Line: python3 automatic_check_writing_machine.py "Dollar Amount" 
+### Installing and Running
+
+Run on Command Line: 
+
+!pip install inflect
+
+python3 automatic_check_writing_machine.py "Dollar Amount" 
  - With the Dollar Amount in the format: '$1,234.56'
