@@ -15,7 +15,7 @@ inflect 4.1.0
 
 Run on Command Line: 
 
-!pip install inflect
+ !pip install inflect
 
-python3 automatic_check_writing_machine.py "Dollar Amount" 
- - With the Dollar Amount in the format: '$1,234.56'
+ python3 automatic_check_writing_machine.py "Dollar Amount" 
+  - With the Dollar Amount in the format: '$1,234.56'
