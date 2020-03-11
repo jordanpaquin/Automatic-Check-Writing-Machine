@@ -7,9 +7,8 @@ Example Test Cases:
   thousand five hundred ninety-three and 12/100 dollars.
 
 ### Prerequisites
-Python 3.6 and above
-inflect 4.1.0
-- install with: 
+- Python 3.6 and above
+- inflect 4.1.0
 
 ### Installing and Running
 
